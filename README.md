@@ -1,2 +1,2 @@
 # jovian
-Data Analysis with Python: zero to pandas
+zero to pandas
